@@ -1,0 +1,15 @@
+{
+  "name": "glance-visual-look-virtual-tryon-curator-skill",
+  "version": "1.0.0",
+  "description": "Glance Visual Look & Virtual Try-On Curator - Synthesizes context-aware fashion outfits and personalized editorial lookbooks matching user aesthetics, weather, and occasion.",
+  "category": "Service",
+  "mcp_entry": "mcp_server.py",
+  "python_version": ">=3.9",
+  "tags": [
+    "glance",
+    "virtual-tryon",
+    "fashion-ai",
+    "generative-lookbook",
+    "mcp"
+  ]
+}
